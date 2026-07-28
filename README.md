@@ -31,11 +31,6 @@
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/faishalarrasyid21)
 
-
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/faishalarrasyid21)
-
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeNobrega/GuilhermeNobrega/output/pacman-contribution-graph-dark.svg">
@@ -43,6 +38,8 @@
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GuilhermeNobrega/GuilhermeNobrega/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/faishalarrasyid21)
 
 
 <td width="50%" valign="top">
