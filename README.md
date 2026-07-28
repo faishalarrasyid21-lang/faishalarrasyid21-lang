@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/header.svg" alt="Faishal Arrasyid Profile Header" width="100%" />
+  <img src="images/header.png" alt="Faishal Arrasyid Profile Header" width="100%" />
 </p>
 
 <!-- Title -->
