@@ -41,7 +41,6 @@
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/faishalarrasyid21)
 
-### 📊 Vital Statistics
 
 <p align="center">
   <picture>
@@ -52,6 +51,7 @@
 </p>
 
 
+<td width="50%" valign="top">
 
 <h2>🤝 Collaboration</h2>
 
