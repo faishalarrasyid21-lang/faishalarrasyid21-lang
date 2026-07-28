@@ -51,25 +51,7 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faishalarrasyid21&theme=radical" alt="Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faishalarrasyid21&theme=radical" alt="GitHub profile contribution summary" />
-</p>    
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faishalarrasyid21&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
-</p>
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/faishalarrasyid21)
-
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<!-- LEFT: COLLAB -->
-<td width="50%" valign="top">
 
 <h2>🤝 Collaboration</h2>
 
