@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="450" alt="Animated visual">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1mMG1oc3RjZnJ5azBjYXc0MHRodjB2bTAyZWNibWN3YXJmbnVlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="450" alt="Animated visual">
 </p>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/faishalarrasyid21)
