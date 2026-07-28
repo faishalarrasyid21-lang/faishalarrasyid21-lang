@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Faishal%20Arrasyid&fontSize=70&animation=twinkling" alt="Faishal Arrasyid profile header" />
+  <img src="images/profile.jpg" alt="Faishal Arrasyid Profile Header" width="100%" />
 </p>
 
 <!-- Title -->
