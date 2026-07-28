@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/profile.jpg" alt="Faishal Arrasyid Profile Header" width="100%" />
+  <img src="images/profile.jpg" alt="Faishal Arrasyid Profile Header" width="200" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;" />
 </p>
 
 <!-- Title -->
