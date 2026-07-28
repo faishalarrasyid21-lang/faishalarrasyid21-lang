@@ -1,60 +1,121 @@
-<h1 align="center">Hi 👋, I'm Faishal Arrasyid</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Faishal%20Arrasyid&fontSize=70&animation=twinkling" alt="Faishal Arrasyid profile header" />
 </p>
 
----
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/faishal-arrasyid-0bb287345">Faishal Arrasyid</a></b>
+    </samp>
+</h3>
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **awesome projects**
-- 🌱 I’m currently learning **Advanced Web Development & AI**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, or anything tech**
-- 📫 How to reach me: **faishalarrasyid21@gmail.com**
-- ⚡ Fun fact: **I love coding and coffee!**
+<br>
 
----
+<p align="center">
+<samp>
+「 Software Engineer & Full Stack Developer building awesome projects 」  
+</samp>
+</p>
 
-### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Always+Learning+New+Tech"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated visual">
+</p>
+
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/faishalarrasyid21)
+
+# 🛠 Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,python,git,docker,linux" alt="Tech Stack SVG Icons"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,python,git,docker,linux&perline=10" alt="Tech Stack SVG Icons"/>
   </a>
 </p>
 
----
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/faishalarrasyid21)
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faishalarrasyid21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" height="150" alt="GitHub Stats SVG" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faishalarrasyid21&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" height="150" alt="GitHub Streak SVG" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishalarrasyid21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages SVG" />
-</div>
-
----
-
-### 🤝 Connect with Me
+### 📊 Vital Statistics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/faishal-arrasyid-0bb287345" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn SVG Badge" />
-  </a>
-  <a href="mailto:faishalarrasyid21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email SVG Badge" />
-  </a>
-  <a href="https://www.instagram.com/_faishalarrasyid/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram SVG Badge" />
-  </a>
-  <a href="https://www.tiktok.com/@ig_faishalarrasyid?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok SVG Badge" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faishalarrasyid21&theme=radical" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faishalarrasyid21&theme=radical" alt="GitHub profile contribution summary" />
+</p>    
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faishalarrasyid21&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/faishalarrasyid21)
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLAB -->
+<td width="50%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I’m open to collaborating on:
+
+<ul>
+  <li>Open Source Projects</li>
+  <li>Web Development</li>
+  <li>Full Stack Applications</li>
+  <li>AI & Machine Learning</li>
+</ul>
+
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="50%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+
+<br>
+
+<a href="mailto:faishalarrasyid21@gmail.com">
+  <img src="https://img.shields.io/badge/email-faishalarrasyid21@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/faishal-arrasyid-0bb287345">
+  <img src="https://img.shields.io/badge/linkedin-faishal--arrasyid-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+<br><br>
+
+<a href="https://www.instagram.com/_faishalarrasyid/">
+  <img src="https://img.shields.io/badge/Instagram-_faishalarrasyid-E4405F?style=for-the-badge&logo=instagram" alt="Instagram profile link">
+</a>
+<br><br>
+
+<a href="https://www.tiktok.com/@ig_faishalarrasyid?is_from_webapp=1&sender_device=pc">
+  <img src="https://img.shields.io/badge/TikTok-ig__faishalarrasyid-000000?style=for-the-badge&logo=tiktok" alt="TikTok profile link">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/faishalarrasyid21)
+
+<p align="center">
+⚡ Building awesome projects and always learning new tech
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
