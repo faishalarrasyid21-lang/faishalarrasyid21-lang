@@ -48,6 +48,10 @@
 </picture>
 </p>
 
+<p align="center">
+  <img src="example.gif" alt="Example Game" width="100%" />
+</p>
+
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/faishalarrasyid21)
 
 
