@@ -94,22 +94,21 @@ I’m open to collaborating on:
   <img src="https://img.shields.io/badge/TikTok-ig__faishalarrasyid-000000?style=for-the-badge&logo=tiktok" alt="TikTok profile link">
 </a>
 
-    </td>
-
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <details open>
-        <summary><b>Full year calendar</b></summary>
-        <p align="center"><img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></p>
-      </details>
-      <details>
-        <summary><b>Half year calendar</b></summary>
-        <p align="center"><img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.svg" alt=""></p>
-      </details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <details open>
+    <summary><b>Full year calendar</b></summary>
+    <p align="center"><img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></p>
+  </details>
+  <details>
+    <summary><b>Half year calendar</b></summary>
+    <p align="center"><img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.svg" alt=""></p>
+  </details>
+  <img width="900" height="1" alt="">
+</td>
+</tr>
 </table>
 
 
