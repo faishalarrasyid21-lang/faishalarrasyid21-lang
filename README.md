@@ -98,10 +98,10 @@ I’m open to collaborating on:
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <p><b>Full year calendar</b></p>
+  <p align="center"><b>Full year calendar</b></p>
   <p align="center"><img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></p>
   
-  <p><b>Half year calendar</b></p>
+  <p align="center"><b>Half year calendar</b></p>
   <p align="center"><img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.svg" alt=""></p>
   
   <img width="900" height="1" alt="">
