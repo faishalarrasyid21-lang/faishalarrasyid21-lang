@@ -94,9 +94,16 @@ I’m open to collaborating on:
   <img src="https://img.shields.io/badge/TikTok-ig__faishalarrasyid-000000?style=for-the-badge&logo=tiktok" alt="TikTok profile link">
 </a>
 
-</td>
+    </td>
 
-</tr>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <details open><summary>Full year calendar</summary><img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+      <details><summary>Half year calendar</summary><img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
 </table>
 
 
