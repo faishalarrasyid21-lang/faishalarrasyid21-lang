@@ -99,9 +99,6 @@ I’m open to collaborating on:
 </tr>
 </table>
 
-<p align="center">
-  <img src="example.gif" alt="Example Game" width="100%" />
-</p>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/faishalarrasyid21)
 
@@ -113,5 +110,6 @@ Star ⭐ the repos if they helped you!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+  <img src="example.gif" alt="Example Game" width="100%" />
 </p>
+
